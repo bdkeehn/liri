@@ -1,1 +1,0 @@
-In this app you will be able to use axios calls to pull up a band and see their concert tour dates, venues, tour names, dates etc.

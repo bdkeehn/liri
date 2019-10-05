@@ -61,13 +61,6 @@ function getMeSpotified(value) {
 
         }
     )
-    function getMovieInfo(value){
-        console.log("movie-this")
-
-        axios.get(value).then(function (res) {
-         
-
-    }
 
     
 }
